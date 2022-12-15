@@ -15,6 +15,6 @@ If a list containing less than 9 elements is passed into the function, it should
 ## Files
 
 * *mean_var_std.py*: is where the code is written.
-* *test_module.py*: contains the tests that were necessary for the correction.
+* *test_module.py*: contains the tests that is necessary for the correction.
 * *main.py*: file that must be run to test the code.
 
